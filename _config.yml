@@ -1,0 +1,9 @@
+name: "HackRPI Club"
+description: "OUR Club Website"
+
+url: “http://localhost:4000”
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
